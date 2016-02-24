@@ -1,6 +1,6 @@
 # configuration file format.
 
-baseurl: http://localhost:9090/SampleNGRepo/
+baseurl: http://localhost:9090/End2EndTest/
 set-speed: 1
 timeout:10000
 
